@@ -1,9 +1,9 @@
 # ilxutils
 ilxutils is an api wrapper for SciCrunch. The package has 3 core functionalities:
 Add/Update/Delete SciCrunch elements (api_wrapper.py), convert elements into local turtle file
-(interlex2ttl.py), and compare Interlex to NIF Ontology (nif-ilx-comparator.py).
+(interlex2ttl.py), and compare Interlex to NIF Ontology (nif-ilx-comparator.py). 
 
-## Requirements
+## Requirement
 aiohttp==3.1.1
 asyncio==3.4.3
 DateTime==4.2
