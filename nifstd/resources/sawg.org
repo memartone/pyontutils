@@ -73,7 +73,7 @@
    #+END_SRC
 
 * Overview
-The Stimulating Peripheral Activity to Relieve Conditions (SPARC) effort is the result of National Institutes of Health’s (NIH)
+The Stimulating Peripheral Activity to Relieve Conditions ([[http://data.sparc.science/#/home][SPARC]]) effort is the result of National Institutes of Health’s (NIH)
 drive to map out the neural circuitry responsible for visceral control in higher vertebrates.
 
 The management of multimodal anatomical knowledge is one of the mainstays of MAP-CORE’s effort in SPARC.
@@ -137,7 +137,7 @@ This page will be continuously updated.
    1. Documentation for adding terms to the SPARC vocabularies.
       - SPARC has several methods for adding terms to the SPARC vocabularies, depending on the number of terms to be added.  An
         [[https://docs.google.com/presentation/d/1lgjvHoYJIFXYdvY9JLO5577hO3y2rnDxUd3TRmUzLXA/edit#slide=id.g5a45d9742c_0_49][overview]]
-        of how to add to the SPARC vocabularies provides detailed instructions.
+        of how to add to the SPARC vocabularies provides detailed instructions.  If you've already gone through the instructions and just want to add terms to the Google Doc template, click [[https://docs.google.com/spreadsheets/d/1mU8Xxqt07pweDmtvdjDriuPSuw0EeGxiKC2733nOgvY/edit#gid=0][here]].  Make sure you add your contact information to the first sheet and then create a copy of the template before adding terms.
       - For internal or advanced users who are familiar with the process, you can access the
         [[https://scicrunch.org/scicrunch/interlex/create][InterLex webpage]] here.
 
